@@ -1,0 +1,4 @@
+pyfractals
+==========
+
+fractals in python
