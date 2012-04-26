@@ -12,6 +12,6 @@ Mandelbrot Set
 
 big image:
 
-* `9600px x 900px <https://github.com/cgoldberg/pyfractals/raw/master/renderings/fractal_mandelbrot_9600p.png>`_.
+* `9600px x 900px <https://github.com/cgoldberg/pyfractals/raw/master/renderings/fractal_mandelbrot_9600p.png>`_
 
 ----
